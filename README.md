@@ -17,7 +17,7 @@ You're sections headers will be used to reference location of destination.
 ---
 ## Description
 
-This Is A Library Website Made With Vanilla Javascript.It Has A Search Function And A Books Add Function And Stylings Are Done From BootStrap.
+This Is A Library Website Made With Vanilla Javascript. It Has A Search Function And A Books Add Function And Stylings Are Done From BootStrap.
 
 
 #### Launguages Used
